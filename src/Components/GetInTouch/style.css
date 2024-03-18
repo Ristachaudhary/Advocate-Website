@@ -1,0 +1,38 @@
+.get-in-touch-parent-container{
+    background-image: url('https://www.maheshwariandco.com/wp-content/uploads/2019/04/bgn-map.png');
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: inherit;
+    /* margin: 40px; */
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+
+}
+.get-in-touch-first-child-main-container{
+    
+}
+
+.get-in-first-child-our-office{
+   
+    font-size: 20px;
+    font-weight: 300;
+}
+.get-in-first-child-get-in-touch{
+    font-size: 60px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.get-in-first-child-get-in-touch span{
+    color: #e43738;
+}
+.get-in-first-child-get-slogan{
+    font-size: 18px;
+    font-weight: 300;
+    margin-bottom: 80px;
+}
+.get-in-touch-sec-child-main-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

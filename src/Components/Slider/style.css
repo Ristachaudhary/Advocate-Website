@@ -1,0 +1,30 @@
+.slider-main-components{
+    width: 100%;
+    height: 120vh;
+    background-image: url('https://www.maheshwariandco.com/wp-content/uploads/2021/05/slider1-4-e1620805786935.jpg');
+    background-repeat: no-repeat;
+    background-size: 130% 106%;
+    background-position: center;
+    display: flex;
+    position: relative;
+   
+}
+.Slider-content{
+    top: 50%;
+    font-size: 4.7rem;
+    font-weight: 900;
+    position: absolute;
+    left: 10%;
+    transform: translateY(-55%);
+    text-align: center;
+    line-height: 1;
+}
+.Slider-content span{
+    color: #e43738;
+}
+
+
+
+.slider-blank-div{
+    width: 500px;
+}

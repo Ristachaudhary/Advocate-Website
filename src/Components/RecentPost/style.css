@@ -1,0 +1,21 @@
+.recent-post-main-container{
+    margin: 40px 40px 200px 40px;
+}
+.latest-news-heading{
+    font-size: 20px;
+    font-weight: lighter;
+    margin-bottom: 15px;
+}
+.recent-post-heading{
+    font-size: 3.5rem;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+.recent-post-heading span{
+    color: #ed3237;
+}
+.recent-post-child-main-container{
+    display: flex;
+    gap: 20px;
+
+}

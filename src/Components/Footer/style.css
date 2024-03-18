@@ -1,0 +1,120 @@
+.footer-parent-container{
+display: flex;
+flex-direction: column;
+/* align-items: center; */
+}
+.Footer-main-container{
+    background-image: url(https://www.maheshwariandco.com/wp-content/uploads/2019/04/bgn-footer.png);
+    background-position: left bottom;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+.other-territory span{
+    color: #ed3237;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.other-territory{
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.footer-other-territories ul li{
+    list-style-type: none;
+    margin-bottom: 8px;
+}
+.footer-our-location{
+    font-weight: 200;
+    /* not */
+    margin-bottom: 10px;
+}
+.where-to-find{
+    margin-bottom: 10px;
+}
+.footer-location-map-contact{
+    display: flex;
+    gap: 10px;
+}
+.footer-our-location-map img{
+    /* width: 300px; */
+    height: 150px;
+    
+    /* height: auto; */
+    width: 100%;
+}
+.location span{
+    color: #ed3237;
+    margin-right: 5px;
+    font-size: 12px;
+}
+.footer-location-contact{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: end;
+    font-size: 14px;
+    gap: 5px;
+    /* flex-direction: end; */
+}
+.where-to-find{
+    color: #ed3237;
+    font-weight: bold;
+    font-size: 20px;
+}
+.footer-social-connect{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.download-btn{
+    display: inline-block;
+    /* learnt */
+    background-color: #ed3237;
+    /* width: 300px; */
+    padding: 15px;
+    border-radius: 20px;
+    color: #fff;
+    margin-bottom: 25px;
+}
+.stay-con{
+    font-size: 20px;
+    font-weight: bold;
+    color: #ed3237;
+    margin-bottom: 20px;
+
+}
+.footer-social-social-btn{
+    display: flex;
+    gap: 10px;
+
+}
+.footer-social-social-btn{
+}
+.icons{
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+    width: 50px;
+    height: 50px;
+    padding: 15px;
+    background-color: #ed3237;
+    color: #fff;
+    border-radius: 100%;
+}
+.Footer-TradeMrk img{
+    /* object-fit: cover; */
+    width: 300px;
+    height: auto;
+    margin-bottom: 10px;
+}
+.back-to-top{
+    font-weight: bold;
+}
+
+
+
